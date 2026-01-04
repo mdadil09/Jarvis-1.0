@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Local data / runtime files
+memory.txt
+notes.txt
+PyWhatKit_DB.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
